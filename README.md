@@ -1,2 +1,2 @@
-# Basic-CV
+# CV
 Test
